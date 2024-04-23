@@ -7,8 +7,8 @@ GPNet is evaluated on processed ARIS dataset [link](https://zenodo.org/records/4
 The file structure is：
 
 |-root  
->|-train  
->>|-images  
+&nbsp;&nbsp;&nbsp;&nbsp;|-train  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images  
 >>>|-0.jpg  
 >>>...  
 >>|-groundtruths  
