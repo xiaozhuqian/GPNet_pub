@@ -6,23 +6,22 @@ GPNet is evaluated on processed ARIS dataset [link](https://zenodo.org/records/4
 
 The file structure is：
 
-root  
-    |-train  
-        |-images  
-            |-0.jpg  
-            ...  
-        |-groundtruths  
-            |-density_map  
-                |-0.h5  
-                ...  
-            |-fish_mask  
-                |-0.h5  
-                ...  
-            |-points  
-                |-0.txt  
-                ...  
-    |-val  
-    |-test  
+|-root  
+>|-train  
+>>|-images  
+>>>|-0.jpg  
+>>>...  
+>>|-groundtruths  
+>>>|-density_map  
+>>>>|-0.h5  
+>>>>...  
+>>>>|-0.h5  
+>>>>...  
+>>>|-points  
+>>>>|-0.txt  
+>>>>...  
+>|-val  
+>|-test  
 
 ## Prerequisites
 Install requirements.txt before training.
