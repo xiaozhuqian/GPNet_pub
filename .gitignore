@@ -3,9 +3,7 @@ __pycache__
 *.pth.tar
 outputs
 try.py
-README.md
 vis
 *.json
-*.txt
 *.out
 .vscode

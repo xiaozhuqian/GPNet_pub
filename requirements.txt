@@ -1,0 +1,62 @@
+asttokens==2.0.5
+backcall==0.2.0
+certifi==2023.11.17
+charset-normalizer==3.3.2
+contourpy==1.1.1
+cycler==0.12.1
+debugpy==1.6.0
+decorator==5.1.1
+executing==0.8.3
+fonttools==4.47.2
+graphviz==0.20.3
+h5py @ file:///croot/h5py_1691589708553/work
+idna==3.6
+importlib-resources==6.1.1
+importlib_metadata==7.1.0
+ipykernel==6.13.0
+ipython==8.2.0
+jedi==0.18.1
+jsonpatch==1.33
+jsonpointer==2.4
+jupyter-client==7.2.2
+jupyter-core==4.10.0
+kiwisolver==1.4.5
+matplotlib==3.7.4
+matplotlib-inline==0.1.3
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+nest-asyncio==1.5.5
+networkx==3.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+opencv-python==4.9.0.80
+packaging==21.3
+pandas==1.4.3
+parso==0.8.3
+pickleshare==0.7.5
+Pillow==9.3.0
+prompt-toolkit==3.0.29
+pure-eval==0.2.2
+Pygments==2.12.0
+pyparsing==3.0.8
+python-dateutil==2.8.2
+pytz==2022.2.1
+pyzmq==22.3.0
+requests==2.31.0
+scipy==1.10.1
+six==1.16.0
+stack-data==0.2.0
+torch==1.7.1
+torch-summary==1.4.4
+torch-tb-profiler==0.4.0
+torchaudio==0.7.0a0+a853dff
+torchvision==0.8.2
+torchviz==0.0.2
+tornado==6.1
+traitlets==5.1.1
+typing_extensions @ file:///croot/typing_extensions_1705599297034/work
+urllib3==2.1.0
+visdom==0.2.4
+wcwidth==0.2.5
+websocket-client==1.7.0
+zipp==3.17.0
