@@ -3,7 +3,9 @@ This is the PyTorch version repo for [Boosting fish counting in sonar images wit
 
 ## Data preparation
 GPNet is evaluated on processed ARIS dataset [link](https://zenodo.org/records/4717411).
+
 The file structure is：
+
 root
     |-train
         |-images
