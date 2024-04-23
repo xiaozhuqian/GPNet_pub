@@ -32,3 +32,9 @@ Install requirements.txt before training.
 
 ## Testing
 Use test.py to test a batch of images.
+
+## Pretrained Models
+
+Download links:
+
+[Google Drive](https://drive.google.com/file/d/1SfbsIv8z6oTNZP169KmLUSjku86mqXwZ/view?usp=drive_link)
