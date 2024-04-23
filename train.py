@@ -31,7 +31,7 @@ parser.add_argument('--data_dir', metavar='DATA_DIR', default='/home/data/duanyu
 parser.add_argument('--save_dir', default='/home/data/duanyunhong/train_clear', help='directory to saved model')
 parser.add_argument('--max_model_num', type=int, default=1,
                         help='max models num to save ')
-parser.add_argument('--vis_env',metavar='VIS_ENV', type=str, default='try',
+parser.add_argument('--vis_env',metavar='VIS_ENV', type=str, default='gpnet',
                     help='Visdom environment name.') 
 
 #train params
